@@ -18,4 +18,4 @@ Semana Omnistack 9 de 2019
  * [Web ReacJS](https://github.com/RafaelMScience/frontend_omnistack9.0)
  * [Backend Node.JS](https://github.com/RafaelMScience/backend_omnistack9.0)
  
- ![Web](webinicial.jpg) ![web](web.jpg) ![web teste](Tela Teste web.jpg) ![App amostra](App.jpg) ![Backend](backend.png)
+ ![Web](webinicial.jpg) ![web](web.jpg) ![App amostra](App.jpg) ![Backend](backend.png)
